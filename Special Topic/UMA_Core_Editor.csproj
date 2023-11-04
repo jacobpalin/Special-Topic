@@ -63,8 +63,8 @@
     <Compile Include="Assets\UMA\Core\Editor\DNAPlugins\ColorDNAConverterPropertyDrawers.cs" />
     <Compile Include="Assets\UMA\Core\Editor\Scripts\SlotLibraryEditor.cs" />
     <Compile Include="Assets\UMA\Core\Editor\Scripts\DynamicDNAPluginMasterWeightDrawer.cs" />
-    <Compile Include="Assets\UMA\Core\Editor\Scripts\GUIHelper.cs" />
     <Compile Include="Assets\UMA\Core\Editor\Scripts\DynamicDNAConverterControllerPropertyDrawer.cs" />
+    <Compile Include="Assets\UMA\Core\Editor\Scripts\GUIHelper.cs" />
     <Compile Include="Assets\UMA\Core\Editor\Scripts\UMAMeshDataPropertyDrawer.cs" />
     <Compile Include="Assets\UMA\Core\Editor\Scripts\UMAWebGLSetup.cs" />
     <Compile Include="Assets\UMA\Core\Editor\Scripts\UMASimpleLODEditor.cs" />
