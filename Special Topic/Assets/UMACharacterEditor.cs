@@ -21,7 +21,6 @@ public class UMACharacterEditor : MonoBehaviour
             child.gameObject.GetComponent<Slider>().onValueChanged.AddListener(OnSliderChanged);
         }
     }
-
     void OnDisable()
     {
         avatar.CharacterUpdated.RemoveListener(Updated);
